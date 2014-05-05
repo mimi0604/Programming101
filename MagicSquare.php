@@ -1,5 +1,13 @@
 <?php 
 
+/*
+Problem 33 - Magic Square
+
+Implement a function, called magic_square(matrix) that checks if the given array of arrays matrix is a magic square.
+
+A magic square is a square matrix, where the numbers in each row, and in each column, and the numbers in the forward and backward main diagonals, all add up to the same number.
+*/
+
 function magic_square($matrix){
 
  //get matrix size
